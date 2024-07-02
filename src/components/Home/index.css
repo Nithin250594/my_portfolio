@@ -1,0 +1,59 @@
+.home-bg{
+    background-color: #c1e6f5;
+    height: 80vh;
+    width: 85vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+}
+
+.home-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home-text-section{
+    margin-left: 100px;
+    margin-top: 80px;
+    line-height: 70px;
+    width: 50%;
+    text-align: start;
+}
+
+.home-text{
+    font-size: 44px;
+    font-weight: 500;
+    font-family: 'Roboto';
+    color: #1d333b;
+    
+}
+
+.name-span{
+    font-size: 44px;
+    font-weight: 500;
+    font-family: 'Roboto';
+    color: #396e82;
+}
+
+.contact-button{
+    background-color: #396e82;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    font-family:'Roboto';
+    height: 45px;
+    width: 120px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.my-photo-style{
+    height: 350px;
+    width: 350px;
+    margin-right: 150px;
+    border-top-left-radius: 180px;
+    border-bottom-left-radius: 140px;
+    border-top-right-radius: 180px;
+    border-bottom-right-radius: 140px;
+}
